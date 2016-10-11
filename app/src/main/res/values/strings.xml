@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="txvUser">User</string>
+    <string name="txvPassword">Password</string>
+    <string name="chkRemember">Remember</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnCancel">Cancel</string>
+    </resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_empty">Algunos de los campos está vacío</string>
+    <string name="password_digit">La contraseña debe contener al menos un número</string>
+    <string name="password_case">La contraseña debe contener al menos una mayúscula/minúscula</string>
+    <string name="password_length">La contraseña debe ser de 8 carácteres mínimo</string>
+</resources>
